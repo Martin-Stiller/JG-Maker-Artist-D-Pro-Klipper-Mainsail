@@ -17,6 +17,8 @@ mit # auskomentieren für normalen idex Betrieb.
 
 ![image](https://github.com/Martin-Stiller/JG-Maker-Artist-D-Pro-Klipper-Mainsail/assets/49054392/cd2d7542-98df-459c-b98d-d3ebd86bacf2)
 
+#######################
+
+![Screenshot 2023-12-25 081424](https://github.com/Martin-Stiller/JG-Maker-Artist-D-Pro-Klipper-Mainsail/assets/49054392/a35b38a1-e1d7-4680-a9f7-28c7365c90a6)
 
 
-![Screenshot 2023-12-25 080215](https://github.com/Martin-Stiller/JG-Maker-Artist-D-Pro-Klipper-Mainsail/assets/49054392/ba92835b-6a5f-4043-8526-1469e02ae53b)
