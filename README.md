@@ -13,8 +13,9 @@ Ich übernehme keine Haftung für zerstörte Drucker !
 Benutzung auf eigene Gefahr !
 
 In der Start_END.cfg ist der Copy mode aktiviert !!
-![image](https://github.com/Martin-Stiller/JG-Maker-Artist-D-Pro-Klipper-Mainsail/assets/49054392/cd2d7542-98df-459c-b98d-d3ebd86bacf2)
 mit # auskomentieren für normalen idex Betrieb.
+
+![image](https://github.com/Martin-Stiller/JG-Maker-Artist-D-Pro-Klipper-Mainsail/assets/49054392/cd2d7542-98df-459c-b98d-d3ebd86bacf2)
 
 
 
