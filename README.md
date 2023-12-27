@@ -8,11 +8,13 @@ I assume no liability for destroyed printers! Use at your own risk !
 
 Start G-code and End G-code for Prusa Slicer:
 
-Start G-code:
+Start G-code:                                                                                              
+
 SET_PRINT_STATS_INFO TOTAL_LAYER=[total_layer_count]
 START_PRINT BED=[first_layer_bed_temperature] EXTRUDER=[first_layer_temperature] MATERIAL=[filament_type]
 
 End G-code:
+
 ; total layers count = [total_layer_count]
 END_Print
 
