@@ -12,8 +12,8 @@ Start G-code:
 
 ```SET_PRINT_STATS_INFO TOTAL_LAYER=[total_layer_count]
 START_PRINT BED=[first_layer_bed_temperature] EXTRUDER=[first_layer_temperature] MATERIAL=[filament_type]        
-;ACTIVATE_COPY_MODE       ;for Copy Mode```
-
+;ACTIVATE_COPY_MODE       ;for Copy Mode
+```
 
 End G-code:
 
