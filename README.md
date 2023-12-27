@@ -7,9 +7,6 @@ Features: UART | BLTouch 3DTouch) | KAMP | IDEX
 I assume no liability for destroyed printers! Use at your own risk !
 
 
-
-![image](https://github.com/Martin-Stiller/JG-Maker-Artist-D-Pro-Klipper-Mainsail/assets/49054392/cd2d7542-98df-459c-b98d-d3ebd86bacf2)
-
 #######################
 
 ![Screenshot 2023-12-25 081424](https://github.com/Martin-Stiller/JG-Maker-Artist-D-Pro-Klipper-Mainsail/assets/49054392/a35b38a1-e1d7-4680-a9f7-28c7365c90a6)
