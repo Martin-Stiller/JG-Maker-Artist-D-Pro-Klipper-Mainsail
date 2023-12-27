@@ -1,15 +1,12 @@
-# JG-Maker-Artist-D-Pro-Klipper-Mainsail
-JG Maker Astist D Pro with Klipper  on an Old Lenovo Thinkpad 
+JG Maker Astist D Pro with Klipper on an Old Lenovo Thinkpad
 
-Laufende Klipper Installation auf dem JGMAKER Artist D PRO 3D Drucker.
+Running Klipper installation on the JGMAKER Artist D PRO 3D Printer.
 
-Features: UART |BLTouch 3DTouch) | KAMP | IDEX
+Features: UART | BLTouch 3DTouch) | KAMP | IDEX
 
-Ich übernehme keine Haftung für zerstörte Drucker !
-Benutzung auf eigene Gefahr !
+I assume no liability for destroyed printers! Use at your own risk !
 
-In der Start_END.cfg ist der Copy mode aktiviert !!
-mit # auskomentieren für normalen IDEX Betrieb.
+
 
 ![image](https://github.com/Martin-Stiller/JG-Maker-Artist-D-Pro-Klipper-Mainsail/assets/49054392/cd2d7542-98df-459c-b98d-d3ebd86bacf2)
 
