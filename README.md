@@ -17,9 +17,9 @@ START_PRINT BED=[first_layer_bed_temperature] EXTRUDER=[first_layer_temperature]
 
 End G-code:
 
-; total layers count = [total_layer_count]                                
+```; total layers count = [total_layer_count]                                
 END_Print
-
+```
 
 
 
