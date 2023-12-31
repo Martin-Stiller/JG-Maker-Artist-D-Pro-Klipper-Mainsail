@@ -3,6 +3,7 @@ JG Maker Astist D Pro with Klipper on an Old Lenovo Thinkpad
 Running Klipper installation on the JGMAKER Artist D PRO 3D Printer.
 
 Features: UART | BLTouch 3DTouch) | KAMP | IDEX
+
 Latest Update now with:
         Endstops integration
         Input Shaper
