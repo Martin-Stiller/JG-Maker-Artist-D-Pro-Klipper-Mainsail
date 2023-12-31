@@ -4,13 +4,13 @@ Running Klipper installation on the JGMAKER Artist D PRO 3D Printer.
 
 Features: UART | BLTouch 3DTouch) | KAMP | IDEX
 
-Latest Update now with:
-        Endstops integration
-        Input Shaper
-        Better Accelerations
-        Script for Z-Offset Caliration ( BL Touch)
-        Axis Twist Compensation
-        Screw Tilt Adjust
+Latest Update now with:                        
+        Endstops integration                        
+        Input Shaper                        
+        Better Accelerations                        
+        Script for Z-Offset Caliration ( BL Touch)                        
+        Axis Twist Compensation                        
+        Screw Tilt Adjust                        
 
 
 I assume no liability for destroyed printers! Use at your own risk !
