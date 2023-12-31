@@ -33,6 +33,7 @@ END_Print
 ```
 
 
-![Screenshot 2023-12-25 081424](https://github.com/Martin-Stiller/JG-Maker-Artist-D-Pro-Klipper-Mainsail/assets/49054392/a35b38a1-e1d7-4680-a9f7-28c7365c90a6)
+![image](https://github.com/Martin-Stiller/JG-Maker-Artist-D-Pro-Klipper-Mainsail/assets/49054392/06c73b74-d6d8-4498-9539-7fa06db71131)
+
 
 
