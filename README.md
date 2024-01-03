@@ -83,12 +83,12 @@ Here you delete the printer.cfg and copy all files from my GitHub repository.
 ![image](https://github.com/Martin-Stiller/JG-Maker-Artist-D-Pro-Klipper-Mainsail/assets/49054392/0650aea4-388c-467e-a0e4-b6876019cfb3)
 
 
-Click RESTART.
-If everything worked, the printer should now connect.
-If not check your printer.cfg for this section:
+Click RESTART.        
+If everything worked, the printer should now connect.        
+If not check your printer.cfg for this section:        
                 [mcu]
                 serial: /dev/serial/by-id/usb-1a86_USB_Serial-if00-port0
-this ist your USB port your Printer connectet.
+this ist your USB port your Printer connectet.        
 
 SSH ino your Laptop, Pi.. an type 
 ```
@@ -98,7 +98,7 @@ ls /dev/serial/by-id/
 ```
 ![image](https://github.com/Martin-Stiller/JG-Maker-Artist-D-Pro-Klipper-Mainsail/assets/49054392/4b2b9521-2817-4ddd-a4d1-924696ea8cbf)
 
-and the the shown usb-port.
+Change the [MCU] to the shown usb-port. 
 
 
 
