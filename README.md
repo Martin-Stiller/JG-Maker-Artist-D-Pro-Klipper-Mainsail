@@ -63,7 +63,7 @@ END_Print
 
 ![image](https://github.com/Martin-Stiller/JG-Maker-Artist-D-Pro-Klipper-Mainsail/assets/49054392/06c73b74-d6d8-4498-9539-7fa06db71131)
 
-Instructions on how to get it to work.
+<H1>Instructions on how to get it to work.</H1>
 
 It all started with Makerbase's GitHub.
 
