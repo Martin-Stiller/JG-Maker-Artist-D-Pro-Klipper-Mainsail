@@ -10,20 +10,20 @@ I like to Optimize Stuff :)
 
 Mods on the Printer:
 
-        Changed the 2 Extruder to BIQU H2 V2S (found one cheap on Banggood an one on Aliexpress). 
-        https://www.thingiverse.com/thing:5024765 THANK YOU IMP67 for the STL files !
+Changed the 2 Extruder to BIQU H2 V2S (found one cheap on Banggood an one on Aliexpress). 
+https://www.thingiverse.com/thing:5024765 THANK YOU IMP67 for the STL files !
         
-        Ripped out the loud Fan on the Power Supply and do it with a Noctua 120 mm Fan wit an Step down converter on the Power Supply pins 24V. 
-        On the old Fan Connector on the Power Supply i connectet an LED for Safty, they will turn on wenn the Power Supply is to Hot. 
-        Cut out the underside of the Printer for more Airflow for the Noctua 120mm Fan. 
-        Ripped out the Case Fan in the Back of the Printer. The Noctua do a Great Job so i dont need it. 
-        https://www.thingiverse.com/thing:5995200 Thanks living_being for your Guide ! 
+Ripped out the loud Fan on the Power Supply and do it with a Noctua 120 mm Fan wit an Step down converter on the Power Supply pins 24V. 
+ On the old Fan Connector on the Power Supply i connectet an LED for Safty, they will turn on wenn the Power Supply is to Hot. 
+Cut out the underside of the Printer for more Airflow for the Noctua 120mm Fan. 
+Ripped out the Case Fan in the Back of the Printer. The Noctua do a Great Job so i dont need it. 
+https://www.thingiverse.com/thing:5995200 Thanks living_being for your Guide ! 
 
-        Changed the Stepper Bridges to UART mode.  
-        https://www.facebook.com/groups/artistd/posts/5582369768503249/
+Changed the Stepper Bridges to UART mode.  
+https://www.facebook.com/groups/artistd/posts/5582369768503249/
 
-        Next Mods :
-                Change the crapy Rollers on the BED to 2 Linear Rails. ( With the BIQU Extruders i can Print with 100 - 120 mm/s but The Bed is to Loud at these Speeds.
+Next Mods :
+Change the crapy Rollers on the BED to 2 Linear Rails. ( With the BIQU Extruders i can Print with 100 - 120 mm/s but The Bed is to Loud at these Speeds.
                 
                 
 Features: UART | BLTouch (3DTouch) | KAMP | IDEX
