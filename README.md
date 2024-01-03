@@ -53,11 +53,18 @@ If not check your printer.cfg for this section:
 this ist your USB port your Printer connectet.
 
 SSH ino your Laptop, Pi.. an type 
-''''
+```
 
 ls /dev/serial/by-id/
 
-''''
+```
+![image](https://github.com/Martin-Stiller/JG-Maker-Artist-D-Pro-Klipper-Mainsail/assets/49054392/4b2b9521-2817-4ddd-a4d1-924696ea8cbf)
+
+and the the shown usb-port.
+
+
+
+
 
 
 
