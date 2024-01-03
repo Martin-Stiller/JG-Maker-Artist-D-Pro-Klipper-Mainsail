@@ -8,7 +8,7 @@ But i do it for my Fun to work on the Printer ( it was an Gift ).
 I like to Optimize Stuff :)         
 
 
-<H4>Mods on the Printer:</H4>
+<H3>Mods on the Printer:</H3>
 
 Changed the 2 Extruder to BIQU H2 V2S (found one cheap on Banggood an one on Aliexpress).         
 https://www.thingiverse.com/thing:5024765 THANK YOU IMP67 for the STL files !
