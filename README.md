@@ -114,7 +114,7 @@ Here you delete the printer.cfg and copy all files from my GitHub repository.
 Click RESTART.        
 If everything worked, the printer should now connect.        
 If not check your printer.cfg for this section:        
-                [mcu]
+                [mcu]        
                 serial: /dev/serial/by-id/usb-1a86_USB_Serial-if00-port0
 this ist your USB port your Printer connectet.        
 
