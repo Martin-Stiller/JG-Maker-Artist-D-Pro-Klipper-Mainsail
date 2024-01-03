@@ -4,31 +4,43 @@ It all started with Makerbase's GitHub.
 
 https://github.com/makerbase-mks/Klipper-for-MKS-Boards/tree/main/MKS%20Robin%20Pro%20V1.x
 
-There I found the standard printer.cfg for the Artist D Pro.
-Includes instructions on how to create the Klipper firmware.
-I still had an old laptop lying in the corner.
-I then installed Ubuntu Server on it. But any other Linux or a Raspberry Pi should also work.
-The SSH server should be enabled on the host system.
-So let the fun begin.
-First of all, get the KIAHU script. https://github.com/dw-0/kiauh
-Instruktion for Insatalation can be found on the KIAUH GitHub.
-This makes everything easy to install.
-Klipper, Moonraker and Mainsail are used as alternative fluids.
-The script is self-explanatory, so install all 3 please.
-So far, everything went smoothly. But how do you do that with the firmware for the printer?
-So you can use the makerbase-mks from the GitHub... and just rename it to Robin_pro35.bin.
-Flash to the printer and you're done. Confusing was booting in the display of the printer ... and nothing happens.
-Don't worry, it's normal.
-The display will no longer work!
-Now we should somehow be able to access the firmware with Clipper.
-So usb cable in and connected to the laptop.
-Great, now we can access Mainsail, which is the clipper web surface.
-So with http://" your IP from the clipper server" (laptop, Raspi ...)"
+There I found the standard printer.cfg for the Artist D Pro.   
+The file "generic-mks-robin-pro-v1.cfg" Includes instructions on how to create the Klipper firmware.          
+
+I still had an old laptop lying in the corner.        
+I then installed Ubuntu Server on it. But any other Linux or a Raspberry Pi should also work.        
+The SSH server should be enabled on the host system.        
+So let the fun begin.        
+First of all, get the KIAHU script. https://github.com/dw-0/kiauh                
+Instruktion for Instalation can be found on the KIAUH GitHub.                        
+This makes everything easy to install.                
+We need Klipper, Moonraker and Mainsail.                
+The script is self-explanatory, so install all 3 please.   
+
+So far, everything went smoothly. But how do you do that with the firmware for the printer?        
+So you can use the "Robin_pro35 v0.10.0-557.bin" from the GitHub... and just rename it to Robin_pro35.bin.
+Flash to the printer and you're done.
+Alternativly you can build your own Firmware with the KIAUH script.
+
+Confusing was booting in the display of the printer ... and nothing happens.        
+Don't worry, it's normal.        
+The display will no longer work!        
+
+Now we should somehow be able to access the firmware with Klipper.                
+So pu the USB cable in and connect to the laptop PI whatever you have.                
+Great, now we can access Mainsail, which is the Klipper WEB surface.        
+So with "http://" your IP "  from the Klipper server" (laptop, Raspi ...)"        
 If everything worked, you can now see this interface:
+
+![image](https://github.com/Martin-Stiller/JG-Maker-Artist-D-Pro-Klipper-Mainsail/assets/49054392/badf6f85-2ff1-4d6d-9bed-3106f6e5692a)
 
 On the left-hand side, click on MACHINE
 
+![image](https://github.com/Martin-Stiller/JG-Maker-Artist-D-Pro-Klipper-Mainsail/assets/49054392/5a74afe6-4adb-4383-b9a2-a4526dda920f)
+
 Here you delete the printer.cfg and copy all files from my GitHub repository.
+
+![image](https://github.com/Martin-Stiller/JG-Maker-Artist-D-Pro-Klipper-Mainsail/assets/49054392/3eadb38c-8685-4099-ad58-e7d5e6bbbccb)
 
 Click RESTART.
 If everything worked, the printer should now connect.
