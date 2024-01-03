@@ -18,7 +18,7 @@ We need Klipper, Moonraker and Mainsail.
 The script is self-explanatory, so install all 3 please.   
 
 So far, everything went smoothly. But how do you do that with the firmware for the printer?        
-So you can use the "Robin_pro35 v0.10.0-557.bin" from the GitHub... and just rename it to Robin_pro35.bin.
+So you can use the "Robin_pro35 v0.10.0-557.bin" from the GitHub... and just rename it to Robin_pro35.bin.        
 Flash to the printer and you're done.
 Alternativly you can build your own Firmware with the KIAUH script.
 
