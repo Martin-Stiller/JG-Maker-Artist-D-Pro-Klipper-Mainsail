@@ -16,7 +16,7 @@ Latest Update now with:
 
 I assume no liability for destroyed printers! Use at your own risk !
 
-Instuction can be fount in the How To file! 
+Instuction can be fount in the "How To" file! 
 
 Start G-code and End G-code for Prusa Slicer:
 
