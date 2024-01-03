@@ -1,4 +1,4 @@
-JG Maker Astist D Pro with Klipper on an Old Lenovo Thinkpad
+#JG Maker Astist D Pro with Klipper on an Old Lenovo Thinkpad
 
 Running Klipper installation on the JGMAKER Artist D PRO 3D Printer.
 
