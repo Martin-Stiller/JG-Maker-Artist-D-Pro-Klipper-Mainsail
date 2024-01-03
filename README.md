@@ -3,7 +3,7 @@
 Running Klipper installation on the JGMAKER Artist D PRO 3D Printer.
 
 I will say i do this for my Fun !          
-I know i can by me a better Printer for the money i investet in this Projekt !         
+I know i can buy me a better Printer for the money i investet in this Projekt !         
 But i do it for my Fun to work on the Printer ( it was an Gift ).         
 I like to Optimize Stuff :)         
 
