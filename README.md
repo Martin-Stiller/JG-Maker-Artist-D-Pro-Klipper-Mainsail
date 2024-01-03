@@ -14,13 +14,13 @@ I like to Optimize Stuff :)
 <H3>Mods on the Printer:</H3>
 
 Changed the 2 Extruder to BIQU H2 V2S (found one cheap on Banggood an one on Aliexpress).         
-https://www.thingiverse.com/thing:5024765 THANK YOU IMP67 for the STL files !
+https://www.thingiverse.com/thing:5024765 Thank you! IMP67 for the STL files !
         
 Ripped out the loud Fan on the Power Supply and do it with a Noctua 120 mm Fan wit an Step down converter on the Power Supply pins 24V.         
  On the old Fan Connector on the Power Supply i connectet an LED for Safty, they will turn on wenn the Power Supply is to Hot.         
 Cut out the underside of the Printer for more Airflow for the Noctua 120mm Fan.         
 Ripped out the Case Fan in the Back of the Printer. The Noctua do a Great Job so i dont need it.         
-https://www.thingiverse.com/thing:5995200 Thanks living_being for your Guide !         
+https://www.thingiverse.com/thing:5995200 Thank you!  living_being for your Guide !         
 
 Changed the Stepper Bridges to UART mode        .  
 https://www.facebook.com/groups/artistd/posts/5582369768503249/        
