@@ -8,6 +8,9 @@ But i do it for my Fun to work on the Printer ( it was an Gift ).
 I like to Optimize Stuff :)         
 
 
+
+
+
 <H3>Mods on the Printer:</H3>
 
 Changed the 2 Extruder to BIQU H2 V2S (found one cheap on Banggood an one on Aliexpress).         
@@ -26,7 +29,7 @@ Next Mods :
 Change the crapy Rollers on the BED to 2 Linear Rails. ( With the BIQU Extruders i can Print with 100 - 120 mm/s but The Bed is to Loud at these Speeds.        
                 
                 
-Features: UART | BLTouch (3DTouch) | KAMP | IDEX
+<H2>Features: UART | BLTouch (3DTouch) | KAMP | IDEX</H2>
 
 Latest Update now with:                        
         Endstops integration                        
