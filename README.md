@@ -43,7 +43,8 @@ It all started with Makerbase's GitHub.
 https://github.com/makerbase-mks/Klipper-for-MKS-Boards/tree/main/MKS%20Robin%20Pro%20V1.x
 
 There I found the standard printer.cfg for the Artist D Pro.   
-The file "generic-mks-robin-pro-v1.cfg" Includes instructions on how to create the Klipper firmware.          
+The file "generic-mks-robin-pro-v1.cfg" Includes instructions on how to create the Klipper firmware.  
+But you can skip the Firmware Compilation if you want.        
 
 I still had an old laptop lying in the corner.        
 I then installed Ubuntu Server on it. But any other Linux or a Raspberry Pi should also work.        
