@@ -126,7 +126,7 @@ ls /dev/serial/by-id/
 ```
 ![image](https://github.com/Martin-Stiller/JG-Maker-Artist-D-Pro-Klipper-Mainsail/assets/49054392/4b2b9521-2817-4ddd-a4d1-924696ea8cbf)
 
-Change the [MCU] to the shown usb-port. 
+Change the [MCU] to the shown usb-port on your Host. 
 
 
 
