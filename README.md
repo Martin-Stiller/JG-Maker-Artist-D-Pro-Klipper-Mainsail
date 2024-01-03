@@ -115,7 +115,7 @@ Click RESTART.
 If everything worked, the printer should now connect.        
 If not check your printer.cfg for this section:        
                 [mcu]        
-                serial: /dev/serial/by-id/usb-1a86_USB_Serial-if00-port0
+                serial: /dev/serial/by-id/usb-1a86_USB_Serial-if00-port0        
 this ist your USB port your Printer connectet.        
 
 SSH ino your Laptop, Pi.. an type 
