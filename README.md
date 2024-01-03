@@ -22,7 +22,7 @@ So you can use the "Robin_pro35 v0.10.0-557.bin" from the GitHub... and just ren
 Flash to the printer and you're done.
 Alternativly you can build your own Firmware with the KIAUH script.
 
-Confusing was booting in the display of the printer ... and nothing happens.        
+Confusing was the  "...booting" Message in the display of the printer ... and nothing happens.        
 Don't worry, it's normal.        
 The display will no longer work!        
 
