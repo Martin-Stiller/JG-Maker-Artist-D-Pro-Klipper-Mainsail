@@ -27,20 +27,23 @@ Don't worry, it's normal.
 The display will no longer work!        
 
 Now we should somehow be able to access the firmware with Klipper.                
-So pu the USB cable in and connect to the laptop PI whatever you have.                
+So puT the USB cable in and connect to the laptop, PI whatever you have.  
+
 Great, now we can access Mainsail, which is the Klipper WEB surface.        
-So with "http://" your IP "  from the Klipper server" (laptop, Raspi ...)"        
+So with "http://" your IP "  from your Desktop connect to the Klipper server" (laptop, Raspi ...)"        
 If everything worked, you can now see this interface:
 
 ![image](https://github.com/Martin-Stiller/JG-Maker-Artist-D-Pro-Klipper-Mainsail/assets/49054392/badf6f85-2ff1-4d6d-9bed-3106f6e5692a)
 
 On the left-hand side, click on MACHINE
 
-![image](https://github.com/Martin-Stiller/JG-Maker-Artist-D-Pro-Klipper-Mainsail/assets/49054392/5a74afe6-4adb-4383-b9a2-a4526dda920f)
+![image](https://github.com/Martin-Stiller/JG-Maker-Artist-D-Pro-Klipper-Mainsail/assets/49054392/17b18014-ade5-4bd7-8f8c-9086a1eae993)
+
 
 Here you delete the printer.cfg and copy all files from my GitHub repository.
 
-![image](https://github.com/Martin-Stiller/JG-Maker-Artist-D-Pro-Klipper-Mainsail/assets/49054392/3eadb38c-8685-4099-ad58-e7d5e6bbbccb)
+![image](https://github.com/Martin-Stiller/JG-Maker-Artist-D-Pro-Klipper-Mainsail/assets/49054392/0650aea4-388c-467e-a0e4-b6876019cfb3)
+
 
 Click RESTART.
 If everything worked, the printer should now connect.
