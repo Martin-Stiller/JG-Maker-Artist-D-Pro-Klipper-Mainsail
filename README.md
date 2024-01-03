@@ -12,7 +12,7 @@ I then installed Ubuntu Server on it. But any other Linux or a Raspberry Pi shou
 The SSH server should be enabled on the host system.        
 So let the fun begin.        
 First of all, get the KIAHU script. https://github.com/dw-0/kiauh                
-Instruktion for Instalation can be found on the KIAUH GitHub.                        
+Instruction for installation can be found on the KIAUH GitHub.                        
 This makes everything easy to install.                
 We need Klipper, Moonraker and Mainsail.                
 The script is self-explanatory, so install all 3 please.   
@@ -26,8 +26,8 @@ Confusing was the  "...booting" Message in the display of the printer ... and no
 Don't worry, it's normal.        
 The display will no longer work!        
 
-Now we should somehow be able to access the firmware with Klipper.                
-So puT the USB cable in and connect to the laptop, PI whatever you have.  
+Now we should somehow be able to access the firmware with the WEB Interface Mainsail.                
+So put the USB cable in and connect to the laptop, PI whatever you have to the Printer.  
 
 Great, now we can access Mainsail, which is the Klipper WEB surface.        
 So with "http://" your IP "  from your Desktop connect to the Klipper server" (laptop, Raspi ...)"        
@@ -47,6 +47,17 @@ Here you delete the printer.cfg and copy all files from my GitHub repository.
 
 Click RESTART.
 If everything worked, the printer should now connect.
+If not check your printer.cfg for this section:
+                [mcu]
+                serial: /dev/serial/by-id/usb-1a86_USB_Serial-if00-port0
+this ist your USB port your Printer connectet.
+
+SSH ino your Laptop, Pi.. an type 
+''''
+
+ls /dev/serial/by-id/
+
+''''
 
 
 
