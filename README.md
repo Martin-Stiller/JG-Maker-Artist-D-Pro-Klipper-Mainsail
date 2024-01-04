@@ -74,7 +74,8 @@ The file "generic-mks-robin-pro-v1.cfg" Includes instructions on how to create t
 But you can skip the Firmware Compilation if you want.        
 
 I still had an old laptop lying in the corner.        
-I then installed Ubuntu Server on it. But any other Linux or a Raspberry Pi should also work.        
+I then installed Ubuntu Server on it.        
+But any other Linux or a Raspberry Pi should also work.        
 The SSH server should be enabled on the host system.        
 So let the fun begin.        
 First of all, get the KIAHU script. https://github.com/dw-0/kiauh                
@@ -83,7 +84,8 @@ This makes everything easy to install.
 We need Klipper, Moonraker and Mainsail.                
 The script is self-explanatory, so install all 3 please.   
 
-So far, everything went smoothly. But how do you do that with the firmware for the printer?        
+So far, everything went smoothly.        
+But how do you do that with the firmware for the printer?        
 So you can use the "Robin_pro35 v0.10.0-557.bin" from the GitHub... and just rename it to Robin_pro35.bin.        
 Flash to the printer and you're done.
 Alternativly you can build your own Firmware with the KIAUH script.
