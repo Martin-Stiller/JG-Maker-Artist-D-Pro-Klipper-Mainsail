@@ -1,11 +1,14 @@
-<H1>JG Maker Astist D Pro with Klipper on an Old Lenovo Thinkpad</H1> 
+<H1>JG Maker Artist D Pro with Klipper on an Old Lenovo ThinkPad</H1> 
 
 Running Klipper installation on the JGMAKER Artist D PRO 3D Printer.
 
-I will say i do this for my Fun !          
-I know i can buy me a better Printer for the money i investet in this Projekt !         
-But i do it for my Fun to work on the Printer ( it was an Gift ).         
-I like to Optimize Stuff :)         
+I will say I do this for fun!          
+I know I can buy myself a better Printer for the money I invested in this Project !         
+But I do it for fun to work on the Printer ( it was a Gift ).         
+I like to Optimize Stuff :) 
+
+Update:
+Added Makerbase MKS Robnin Pro v 1.0 Pinout
 
 
 
@@ -13,29 +16,29 @@ I like to Optimize Stuff :)
 
 <H3>Mods on the Printer:</H3>
 
-Changed the 2 Extruder to BIQU H2 V2S (found one cheap on Banggood an one on Aliexpress).         
+I changed the 2 Extruder to BIQU H2 V2S (found one cheap on Banggood and one on Aliexpress).         
 https://www.thingiverse.com/thing:5024765 Thank you! IMP67 for the STL files !
         
-Ripped out the loud Fan on the Power Supply and do it with a Noctua 120 mm Fan wit an Step down converter on the Power Supply pins 24V.         
- On the old Fan Connector on the Power Supply i connectet an LED for Safty, they will turn on wenn the Power Supply is to Hot.         
+I ripped out the loud Fan on the Power Supply and did it with a Noctua 120 mm Fan with a Step-down converter on the Power Supply pin's 24V.         
+ On the old Fan Connector on the Power Supply, I connected an LED for Safety, they will turn on if the Power Supply is too hot.         
 Cut out the underside of the Printer for more Airflow for the Noctua 120mm Fan.         
-Ripped out the Case Fan in the Back of the Printer. The Noctua do a Great Job so i dont need it.         
-https://www.thingiverse.com/thing:5995200 Thank you!  living_being for your Guide !         
+I ripped out the Case Fan in the Back of the Printer. The Noctua does a Great Job, so I don't need it.         
+https://www.thingiverse.com/thing:5995200 Thank you!  Living_being for your Guide !         
 
-Changed the Stepper Bridges to UART mode        .  
+Changed the Stepper Bridges to UART mode .  
 https://www.facebook.com/groups/artistd/posts/5582369768503249/        
 
 Next Mods :        
-Change the crapy Rollers on the BED to 2 Linear Rails. ( With the BIQU Extruders i can Print with 100 - 120 mm/s but The Bed is to Loud at these Speeds.        
+Change the crapy Rollers on the BED to 2 Linear Rails. ( With the BIQU Extruders I can print at 100–120 mm/s, but The Bed is too Loud at these Speeds.        
                 
                 
 <H2>Features: UART | BLTouch (3DTouch) | KAMP | IDEX</H2>
 
 Latest Update now with:                        
-        Endstops integration                        
+        End stops integration                        
         Input Shaper                        
         Better Accelerations                        
-        Script for Z-Offset Caliration ( BL Touch)                        
+        Script for Z-Offset Calibration ( BL Touch)                        
         Axis Twist Compensation                        
         Screw Tilt Adjust                        
 
@@ -75,27 +78,27 @@ But you can skip the Firmware Compilation if you want.
 
 I still had an old laptop lying in the corner.        
 I then installed Ubuntu Server on it.        
-But any other Linux or a Raspberry Pi should also work.        
+But any other Linux system or a Raspberry Pi should also work.        
 The SSH server should be enabled on the host system.        
 So let the fun begin.        
-First of all, get the KIAHU script. https://github.com/dw-0/kiauh                
-Instruction for installation can be found on the KIAUH GitHub.                        
+First, get the KIAHU script. https://github.com/dw-0/kiauh                
+Instructions for installation can be found on the KIAUH GitHub.                        
 This makes everything easy to install.                
 We need Klipper, Moonraker and Mainsail.                
-The script is self-explanatory, so install all 3 please.   
+The script is self-explanatory, so install all three, please.   
 
-So far, everything went smoothly.        
+So far, everything has gone smoothly.        
 But how do you do that with the firmware for the printer?        
-So you can use the "Robin_pro35 v0.10.0-557.bin" from the GitHub... and just rename it to Robin_pro35.bin.        
-Flash to the printer and you're done.
-Alternativly you can build your own Firmware with the KIAUH script.
+So you can use the "Robin_pro35 v0.10.0-557.bin" from GitHub... and just rename it to Robin_pro35.bin.        
+Flash it to the printer, and you're done.
+Alternatively you can build your own Firmware with the KIAUH script.
 
-Confusing was the  "...booting" Message in the display of the printer ... and nothing happens.        
+Confusing was the  "...booting" Message in the display of the printer ... and nothing happened.        
 Don't worry, it's normal.        
 The display will no longer work!        
 
 Now we should somehow be able to access the firmware with the WEB Interface Mainsail.                
-So put the USB cable in and connect to the laptop, PI whatever you have to the Printer.  
+So put the USB cable in and connect it to the laptop, PI whatever you have to the Printer.  
 
 Great, now we can access Mainsail, which is the Klipper WEB surface.        
 So with "http://" your IP "  from your Desktop connect to the Klipper server" (laptop, Raspi ...)"        
@@ -115,12 +118,12 @@ Here you delete the printer.cfg and copy all files from my GitHub repository.
 
 Click RESTART.        
 If everything worked, the printer should now connect.        
-If not check your printer.cfg for this section:        
+If not, check your printer.cfg for this section:        
                 [mcu]        
                 serial: /dev/serial/by-id/usb-1a86_USB_Serial-if00-port0        
-this ist your USB port your Printer connectet.        
+This is your USB port, where your Printer connected.        
 
-SSH ino your Laptop, Pi.. an type 
+SSH into your Laptop, Pi.. and type 
 ```
 
 ls /dev/serial/by-id/
@@ -129,6 +132,5 @@ ls /dev/serial/by-id/
 ![image](https://github.com/Martin-Stiller/JG-Maker-Artist-D-Pro-Klipper-Mainsail/assets/49054392/4b2b9521-2817-4ddd-a4d1-924696ea8cbf)
 
 Change the [MCU] to the shown usb-port on your Host. 
-
 
 
