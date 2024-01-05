@@ -8,8 +8,9 @@ But I do it for fun to work on the Printer ( it was a Gift ).
 I like to Optimize Stuff :) 
 
 Update:
-Added Makerbase MKS Robnin Pro v 1.0 Pinout
-
+Added Makerbase MKS Robin Pro v 1.0 Pinout
+Cleand the config files an changed to English Descriptions.
+<span style="color: red"> Cleand the config files an changed to English Descriptions. </span>
 
 
 
