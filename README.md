@@ -10,11 +10,7 @@ I like to Optimize Stuff :)
 Update:
 Added Makerbase MKS Robin Pro v 1.0 Pinout
 ```diff
-- text in red
-+ text in green
-! text in orange
-# text in gray
-@@ text in purple (and bold)@@
+- I cleaned up the config files and changed the descriptions to English
 ```
 
 
