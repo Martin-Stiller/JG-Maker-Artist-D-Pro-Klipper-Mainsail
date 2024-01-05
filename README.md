@@ -7,8 +7,7 @@ I know I can buy myself a better Printer for the money I invested in this Projec
 But I do it for fun to work on the Printer ( it was a Gift ).         
 I like to Optimize Stuff :) 
 
-Update:
-Added Makerbase MKS Robin Pro v 1.0 Pinout
+Updates:
 ```diff
 - I cleaned up the config files and changed the descriptions to English
 - Added Makerbase MKS Robin Pro v 1.0 Pinout
