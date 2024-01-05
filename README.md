@@ -11,6 +11,7 @@ Update:
 Added Makerbase MKS Robin Pro v 1.0 Pinout
 ```diff
 - I cleaned up the config files and changed the descriptions to English
+- Added Makerbase MKS Robin Pro v 1.0 Pinout
 ```
 
 
